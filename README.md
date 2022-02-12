@@ -7,3 +7,7 @@ Video record
 Camera record
 Call the police.
 News – API
+
+Wireframe:
+
+https://www.canva.com/design/DAE4HOCJldo/share/preview?token=QrOix3A39ypi9B7Rb44rRA&role=EDITOR&utm_content=DAE4HOCJldo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
