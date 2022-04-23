@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ipolice</string>
+    <string name="todo">TODO</string>
+
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="new_user">New User ?</string>
+    <string name="already_registered_login_here">Already Registered? Login Here</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone">Phone</string>
+
+</resources>

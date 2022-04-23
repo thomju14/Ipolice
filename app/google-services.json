@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845207149597",
+    "project_id": "ipolice-b6cc9",
+    "storage_bucket": "ipolice-b6cc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845207149597:android:882e02f710454c933dbaf4",
+        "android_client_info": {
+          "package_name": "com.thomasf10.ipolice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845207149597-p7k5ivb9gg3gg2sa0c3jqt8i0nvcsr1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB36SZROKOT5yg2WuTFkxArDZGj617Rzk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845207149597-p7k5ivb9gg3gg2sa0c3jqt8i0nvcsr1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
